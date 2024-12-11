@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-cospui/opensora:latest
+aiallure/cogvideox:0.93-test9
