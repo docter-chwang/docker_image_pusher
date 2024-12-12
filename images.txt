@@ -4,4 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-aiallure/cogvideox:0.93-test9
+wbuchwalter/mochi:latest
+
