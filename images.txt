@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-hunyuanvideo/hunyuanvideo:cuda_12_4
+shuhongchen/transnetv2
