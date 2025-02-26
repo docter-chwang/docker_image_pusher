@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #ghcr.io/jrottenberg/ffmpeg/5.0.1-ubuntu2004:latest
-linuxserver/ffmpeg:version-7.1-cli
+docker pull gocv/opencv:4.11.0-static
