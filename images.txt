@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #ghcr.io/jrottenberg/ffmpeg/5.0.1-ubuntu2004:latest
-docker pull tuttelikz/opencv-cuda:4.10.0-cuda12.6.3-arch8.9-ubuntu22.04
+haminawireless/opencv:4.9.0-bookworm
