@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #ghcr.io/jrottenberg/ffmpeg/5.0.1-ubuntu2004:latest
-haminawireless/opencv:4.9.0-bookworm
+linuxserver/ffmpeg:amd64-5.1.2
